@@ -13,3 +13,8 @@
     Copy files in the host to the folder
 
     The folder appears in the VM as a network location
+
+
+**Change Resolution**
+
+    Needs Guest Additions to be installed
