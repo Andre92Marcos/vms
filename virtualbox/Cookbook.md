@@ -18,3 +18,5 @@
 **Change Resolution**
 
     Needs Guest Additions to be installed
+
+    sudo apt install virtualbox-ext-pack
